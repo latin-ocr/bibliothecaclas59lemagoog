@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecaclas59lemagoog_0010.png"; bbox 0 0 2648 4792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 217 1226 1136 1498">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 217 1226 1138 1498">
+     <span class='ocr_line' id='line_1_1' title="bbox 217 1226 1136 1498; baseline 0.002 -85"><span class='ocrx_word' id='word_1_1' title='bbox 217 1226 1136 1498; x_wconf 79' lang='lat' dir='ltr'>BIBLIOTHECA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 405 1590 912 1680">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 405 1590 912 1680">
+     <span class='ocr_line' id='line_1_2' title="bbox 405 1590 912 1680; baseline -0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 405 1590 673 1680; x_wconf 77' lang='lat' dir='ltr'>eLAssch</span> <span class='ocrx_word' id='word_1_3' title='bbox 702 1590 912 1678; x_wconf 80' lang='lat' dir='ltr'><strong>LATINA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 330 1948 1198 2170">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 330 1909 1198 2226">
+     <span class='ocr_line' id='line_1_3' title="bbox 330 1948 1198 2170; baseline -0.005 -3"><span class='ocrx_word' id='word_1_4' title='bbox 330 2017 983 2170; x_wconf 75' lang='lat' dir='ltr'>COLLECTIO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1102 1948 1198 1991; x_wconf 72' lang='lat'><strong>‘⁰</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 115 2282 1192 2465">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 115 2282 1192 2465">
+     <span class='ocr_line' id='line_1_4' title="bbox 115 2282 1192 2465; baseline 0.003 -56"><span class='ocrx_word' id='word_1_6' title='bbox 115 2282 424 2412; x_wconf 65' lang='lat' dir='ltr'><strong>Aucwonum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 449 2294 1192 2465; x_wconf 47' lang='lat' dir='ltr'><strong>anssQQss‘mlssqbnum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 392 2527 960 2646">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 392 2527 960 2646">
+     <span class='ocr_line' id='line_1_5' title="bbox 392 2527 960 2646; baseline 0.004 -12"><span class='ocrx_word' id='word_1_8' title='bbox 392 2579 480 2635; x_wconf 74' lang='lat' dir='ltr'><strong>cum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 495 2581 625 2637; x_wconf 66' lang='lat' dir='ltr'><strong>nous</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 642 2527 960 2646; x_wconf 52' lang='grc' dir='ltr'><strong>Εύϊὶιὸἰὲἑωῖἑμ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1328 4792">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1328 4792">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1328 4792; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1328 4792; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
